@@ -1,0 +1,6 @@
+C:\Project\songcsyswonwebAssembly\songcsyswonwebAssembly\obj\Debug\net6.0\songcsyswonwebAssembly.csproj.AssemblyReference.cache
+C:\Project\songcsyswonwebAssembly\songcsyswonwebAssembly\obj\Debug\net6.0\songcsyswonwebAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\songcsyswonwebAssembly\songcsyswonwebAssembly\obj\Debug\net6.0\songcsyswonwebAssembly.AssemblyInfoInputs.cache
+C:\Project\songcsyswonwebAssembly\songcsyswonwebAssembly\obj\Debug\net6.0\songcsyswonwebAssembly.AssemblyInfo.cs
+C:\Project\songcsyswonwebAssembly\songcsyswonwebAssembly\obj\Debug\net6.0\songcsyswonwebAssembly.csproj.CoreCompileInputs.cache
+C:\Project\songcsyswonwebAssembly\songcsyswonwebAssembly\obj\Debug\net6.0\songcsyswonwebAssembly.MvcApplicationPartsAssemblyInfo.cache
